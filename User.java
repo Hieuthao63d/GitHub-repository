@@ -17,6 +17,7 @@ public class User {
         return userId;
     }
 
+    //Chi Thao làm thấy em hông
     public void setUserId(String userId) {
         this.userId = userId;
     }
