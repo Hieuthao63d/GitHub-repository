@@ -54,6 +54,7 @@ public class main {
         }
 
         // Đóng Scanner sau khi hoàn thành
+        //banj huyen ge
         scanner.close();
     }
 }
